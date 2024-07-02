@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-<img width=100% title="ANONYMOUS DEVIL" alt="ANONYMOUS DEVIL" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-DEVIL&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% title="DHPR VIKKY" alt="DHPR VIKKY" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DHPR-VIKKY&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 <table border="0">
  <tr>
     <td>
       <br>
-     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+OMKARa011;"/>
-     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=OMKARa011&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="OMKARa011"/>
+     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+VIKKY;"/>
+     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=masoombalak88&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="masoombalak88"/>
       <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=OMKARa011&data=followers,repositories,stars,commits&theme=viridescent"/>
+      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=masoombalak88&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
       <img alt="gif" src="./assets/images/demon-sleyar.gif">
    </td>  
@@ -34,25 +34,25 @@ type Person struct {
 func main() {
   var me = new(Person)
   
-  me.name     = "DEMON JAI "
-  me.username = "OMKARa011"
-  me.age      = "20"
+  me.name     = " VIKKY "
+  me.username = "masoombalak88"
+  me.age      = "18"
   me.job      = "SOFTWARE developer | Web developer"
   me.hobbies  = []string{"code", "traveling", "music"," guiterist"," gaming"}
   
   fmt.Println(me)
 }
 <!--- <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a> -->
-<!--- <p align='center'><a href="https://api.daily.dev/get?r=OMKARa011"> -->
+<!--- <p align='center'><a href="https://api.daily.dev/get?r=masoombalak88"> -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
 
 <p align="center">
-<a href="https://t.me/DEVIL_SE_ISHQ"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=jaishukla509@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://discord.gg/demon_jai44"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://www.youtube.com/@Demon_hack44"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></br>
+<a href="https://t.me/ABOUT_VIKKY"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=psmartsmm@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://discord.gg/demon_jai44"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://www.youtube.com/@Vikash_editz1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></br>
 
-<p align="center"><a href="https://twitter.com/devil_jai44"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a><a href=""><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://www.instagram.com/demon_jai_pvt"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://OMKARa011.github.io/info/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
+<p align="center"><a href="https://twitter.com/devil_jai44"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a><a href=""><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://www.instagram.com/its_vikky_yadv"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://masoombalak88.github.io/info/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
@@ -203,8 +203,8 @@ func main() {
 ### 🏆GitHub Trophies
 
 <p align="center">
-    <a href="https://github.com/OMKARa011">
-          <img width="49%" src="https://github-profile-trophy.vercel.app/?username=OMKARa011&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+    <a href="https://github.com/masoombalak88">
+          <img width="49%" src="https://github-profile-trophy.vercel.app/?username=masoombalak88&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
     <img width="40%" src="https://holopin.me/amajaying3" />
   </a>
 </p>
@@ -215,7 +215,7 @@ func main() {
 
 
 <p align="center">
-<a href="https://github.com/OMKARa011"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMKARa011&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=OMKARa011&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<a href="https://github.com/masoombalak88"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoombalak88&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=masoombalak88&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
 </p>
 
@@ -225,11 +225,11 @@ func main() {
 
 ### 📊 GitHub Profile Stats
 <p align="center">
-<a href="https://github.com/OMKARa011"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=OMKARa011&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=OMKARa011&theme=dark&hide_border=false" />
+<a href="https://github.com/masoombalak88"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=masoombalak88&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=masoombalak88&theme=dark&hide_border=false" />
  </a></p>
 <p align="center">
-<a href="https://github.com/OMKARa011">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OMKARa011&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=OMKARa011&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
+<a href="https://github.com/masoombalak88">
+<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masoombalak88&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=masoombalak88&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
   </a>
 </p>
 
